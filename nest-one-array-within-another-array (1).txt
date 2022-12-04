@@ -1,0 +1,1 @@
+const myArray = [["String",2],["Word",7]];
